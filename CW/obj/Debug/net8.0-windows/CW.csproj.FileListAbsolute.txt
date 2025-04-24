@@ -1,0 +1,16 @@
+C:\VSC\CW\bin\Debug\net8.0-windows\CW.exe
+C:\VSC\CW\bin\Debug\net8.0-windows\CW.deps.json
+C:\VSC\CW\bin\Debug\net8.0-windows\CW.runtimeconfig.json
+C:\VSC\CW\bin\Debug\net8.0-windows\CW.dll
+C:\VSC\CW\bin\Debug\net8.0-windows\CW.pdb
+C:\VSC\CW\obj\Debug\net8.0-windows\CW.Form1.resources
+C:\VSC\CW\obj\Debug\net8.0-windows\CW.csproj.GenerateResource.cache
+C:\VSC\CW\obj\Debug\net8.0-windows\CW.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\CW\obj\Debug\net8.0-windows\CW.AssemblyInfoInputs.cache
+C:\VSC\CW\obj\Debug\net8.0-windows\CW.AssemblyInfo.cs
+C:\VSC\CW\obj\Debug\net8.0-windows\CW.csproj.CoreCompileInputs.cache
+C:\VSC\CW\obj\Debug\net8.0-windows\CW.dll
+C:\VSC\CW\obj\Debug\net8.0-windows\refint\CW.dll
+C:\VSC\CW\obj\Debug\net8.0-windows\CW.pdb
+C:\VSC\CW\obj\Debug\net8.0-windows\CW.genruntimeconfig.cache
+C:\VSC\CW\obj\Debug\net8.0-windows\ref\CW.dll
